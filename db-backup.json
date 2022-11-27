@@ -1,0 +1,31 @@
+{
+  "heroes": [
+    {
+      "id": 1,
+      "name": "Vasile",
+      "superpower": "Nu cade din picioare",
+      "image": "./assets/images/hero-1.avif"
+    },
+    {
+      "id": 2,
+      "name": "Ion-Ion",
+      "superpower": "Zboara, puiule!",
+      "image": "./assets/images/hero-2.avif"
+    },
+    {
+      "id": 3,
+      "name": "GheJorge",
+      "superpower": "Cade din picioare",
+      "image": "./assets/images/hero-3.avif"    },
+    {
+      "id": 4,
+      "name": "Igor",
+      "superpower": "Nu nimereste tinta",
+      "image": "./assets/images/hero-4.avif"    },
+    {
+      "id": 5,
+      "name": "Thor",
+      "superpower": "E tare pe ciocan",
+      "image": "./assets/images/hero-5.avif"    }
+  ]
+}
